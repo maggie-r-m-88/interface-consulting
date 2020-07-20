@@ -1,0 +1,16 @@
+begin:vcard
+version:3.0
+prodid:Microsoft-MacOutlook/10.e.1.180613
+UID:0050C970-24C3-4D48-B41F-3CAD14713C16
+X-MICROSOFT-EXCHANGE-ID:AAMkAGNhYWNiMTA2LWQyOGQtNGM0Yy1iZWE4LWE3NGExNDA1N2Q0MQBGAAAAAADEfbhh+plBSIoGArjo7NaYBwCXvHw7zIlPQJgMrQedzAgdAAAAAAEOAACXvHw7zIlPQJgMrQedzAgdAACF4lW/AAA=
+fn;charset=utf-8:Frank Adams
+n;charset=utf-8:Adams;Frank;;;
+title;charset=utf-8:President
+org;charset=utf-8:Interface Consulting International\, Inc.;
+url;charset=utf-8;type=work:https://www.interface-consulting.com
+adr;charset=utf-8;type=work;type=pref:;;5847 San Felipe Street\, Suite 1910;Houston;Texas;77057;
+label;charset=utf-8;type=work;type=pref:5847 San Felipe Street\, Suite 1910\nHouston\, Texas 77057
+tel;charset=utf-8;type=work:713.626.2525
+tel;charset=utf-8;type=work;type=fax:713.626.2555
+email;charset=utf-8;type=internet;type=pref;type=work:fgadams@interface-consulting.com
+end:vcard

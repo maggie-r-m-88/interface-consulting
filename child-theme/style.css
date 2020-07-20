@@ -1,0 +1,94 @@
+/*
+Theme Name: O'Connor - Child
+Author: GT3themes
+Author URI: http://gt3themes.com
+Description: -
+Version: 1.0
+Template: oconnor
+*/
+
+.custom-team-shortcode-container .custom-team-wrapper{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+
+}
+
+
+@media only screen and (max-width: 768px){
+
+    .custom-team-shortcode-container .custom-team-wrapper {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    }
+    
+}
+
+@media only screen and (max-width: 480px){
+
+     .custom-team-shortcode-container .custom-team-wrapper {
+        display: grid;
+        grid-template-columns: 1fr;
+    }
+}
+
+@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+/* IE10+ CSS styles go here */
+.custom-team-shortcode-container .custom-team-wrapper{
+  overflow: auto;
+}
+.custom-team-shortcode-container .custom_team_item{
+  display: block;
+    float: left;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    padding-right: 15px;
+    padding-left: 15px;
+    min-height: 1px;
+    width: 25%;
+    padding: 0;
+}
+.custom-team-shortcode-container .custom_team_item:nth-child(5){
+  clear: both;
+}
+
+.custom-team-shortcode-container .custom_team_item:nth-child(9){
+  clear: both;
+}
+
+.custom-team-shortcode-container .custom_team_item:nth-child(13){
+  clear: both;
+}
+
+.custom-team-shortcode-container .custom_team_item:nth-child(17){
+  clear: both;
+}
+
+.custom-team-shortcode-container .custom_team_item:nth-child(21){
+  clear: both;
+}
+
+.custom-team-shortcode-container .custom_team_item:nth-child(25){
+  clear: both;
+}
+
+.custom-team-shortcode-container .custom_team_item:nth-child(29){
+  clear: both;
+}
+
+.custom-team-shortcode-container .custom_team_item:nth-child(34){
+  clear: both;
+}
+
+.custom-team-shortcode-container .custom_team_item:nth-child(38){
+  clear: both;
+}
+
+.custom-team-shortcode-container .custom_team_item:nth-child(42){
+  clear: both;
+}
+
+
+}
+
+
